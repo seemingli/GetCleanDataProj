@@ -1,0 +1,104 @@
+Code Book for TidyAverages.txt
+
+subject 	
+	Volunteer ID	
+		1 to 30	
+
+activity	
+	description of activity carried out
+		WALKING
+		WALKING_UPSTAIRS
+		WALKING_DOWNSTAIRS
+		SITTING
+		STANDING
+		LAYING
+		
+MeanBodyAccelerationMeanX 	
+	Average of Mean of Body Acceleration in x direction by subject & activity 
+		Min.   :0.2216            								
+		Max.   :0.3015            	
+		
+MeanBodyAccelerationMeanY 		
+	Average of Mean of Body Acceleration in y direction by subject & activity 
+		Min.   :-0.040514         								
+		Max.   :-0.001308    
+		
+MeanBodyAccelerationMeanZ			
+	Average of Mean of Body Acceleration in z direction by subject & activity 
+		Min.   :-0.15251         								
+		Max.   :-0.07538     
+		
+MeanBodyAccelerationSDX 			
+	Average of standard deviation of Body Acceleration in x direction by subject & activity
+		Min.   :-0.9961         								
+		Max.   : 0.6269     
+		
+MeanBodyAccelerationSDY 	
+	Average of standard deviation of Body Acceleration in y direction by subject & activity 
+		Min.   :-0.99024        								
+		Max.   : 0.61694       
+		
+MeanBodyAccelerationSDZ 	
+	Average of standard deviation of Body Acceleration in z direction by subject & activity 
+		Min.   :-0.9877         								
+		Max.   : 0.6090     
+		
+MeanGravityAccelerationMeanX 		
+	Average of Mean of Gravity Acceleration in x direction by subject & activity 
+		Min.   :-0.6800              								
+		Max.   : 0.9745          
+	
+MeanGravityAccelerationMeanY	
+	Average of Mean of Gravity Acceleration in y direction by subject & activity 
+		Min.   :-0.47989            								
+		Max.   : 0.95659       
+		
+MeanGravityAccelerationMeanZ
+	Average of Mean of Gravity Acceleration in z direction by subject & activity 
+		Min.   :-0.49509             								
+		Max.   : 0.95787     
+ 
+MeanGravityAccelerationSDX 	
+	Average of standard deviation of Gravity Acceleration in x direction by subject & activity
+		Min.   :-0.9968            								
+		Max.   :-0.8296     
+		
+MeanGravityAccelerationSDY 								
+	Average of standard deviation of Gravity Acceleration in y direction by subject & activity
+		Min.   :-0.9942            								
+		Max.   :-0.6436  
+		
+MeanGravityAccelerationSDZ								
+	Average of standard deviation of Gravity Acceleration in z direction by subject & activity
+		Min.   :-0.9910           								
+		Max.   :-0.6102        
+		
+MeanAngularVelocityMeanX 	
+	Average of Mean of Angular Velocity in x direction by subject & activity 						
+		Min.   :-0.20578         								
+		Max.   : 0.19270  
+		
+MeanAngularVelocityMeanY 								
+	Average of Mean of Angular Velocity in y direction by subject & activity 						
+		Min.   :-0.20421         								
+		Max.   : 0.02747      
+		
+MeanAngularVelocityMeanZ 								
+	Average of Mean of Angular Velocity in z direction by subject & activity 						
+		Min.   :-0.07245         								
+		Max.   : 0.17910       
+		
+MeanAngularVelocitySDX 		
+	Average of standard deviation of Angular Velocity in x direction by subject & activity										
+		Min.   :-0.9943        								
+		Max.   : 0.2677         								
+ 
+MeanAngularVelocitySDY	
+	Average of standard deviation of Angular Velocity in y direction by subject & activity											
+		Min.   :-0.9942   								
+		Max.   : 0.4765    
+		
+MeanAngularVelocitySDZ		
+	Average of standard deviation of Angular Velocity in z direction by subject & activity				
+		Min.   :-0.9855       				    				
+		Max.   : 0.5649       								
